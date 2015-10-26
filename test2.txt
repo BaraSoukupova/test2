@@ -1,0 +1,3 @@
+pom1
+pom2
+pom3
