@@ -3,9 +3,9 @@ pridam radku 2 testnew
 2.<!-- /res/values/strings.xml -->
 3.<resources>
 4.    <string name="login_label">Login:</string> <!-- R.string.login_label -->
-5.    <string name="password_label">Heslo:</string> <!-- R.string.password_label a ostatní analogicky-->
-6.    <string name="submit_label">Prihlásit</string>
-7.    <string name="no_menu_available">Není dostupný žádný jídelnícek.</string>
-8.    <string name="password_not_filled">Musíš zadat heslo.</string>
+5.    <string name="password_label">Heslo:</string> <!-- R.string.password_label a ostatnï¿½ analogicky-->
+6.    <string name="submit_label">Prihlï¿½sit</string>
+7.    <string name="no_menu_available">Nenï¿½ dostupnï¿½ ï¿½ï¿½dnï¿½ jï¿½delnï¿½cek.</string>
+8.    <string name="password_not_filled">Musï¿½ï¿½ zadat heslo.</string>
 9.</resources>
-10.new testmaster
+10. test155.txt
