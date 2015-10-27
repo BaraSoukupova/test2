@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+pridam radku 2
 2.<!-- /res/values/strings.xml -->
 3.<resources>
 4.    <string name="login_label">Login:</string> <!-- R.string.login_label -->
