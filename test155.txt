@@ -8,3 +8,4 @@ pridam radku 2 testnew
 7.    <string name="no_menu_available">Není dostupný žádný jídelnícek.</string>
 8.    <string name="password_not_filled">Musíš zadat heslo.</string>
 9.</resources>
+10.new testmaster
