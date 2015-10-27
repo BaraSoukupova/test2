@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+2.<!-- /res/values/strings.xml -->
+3.<resources>
+4.    <string name="login_label">Login:</string> <!-- R.string.login_label -->
+5.    <string name="password_label">Heslo:</string> <!-- R.string.password_label a ostatní analogicky-->
+6.    <string name="submit_label">Prihlásit</string>
+7.    <string name="no_menu_available">Není dostupný žádný jídelnícek.</string>
+8.    <string name="password_not_filled">Musíš zadat heslo.</string>
+9.</resources>
